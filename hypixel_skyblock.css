@@ -1,0 +1,110 @@
+body {
+	background-color: #C88A00
+}
+#banner {
+	width: 100%;
+	position: absolute;
+	top: 0px;
+}
+#logo {
+	width: 20%;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+}
+#sign_in {
+	width: 7%;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+#menu {
+	width: 7%;
+	position: absolute;
+	top: 20px;
+	right: 120px;
+}
+#zombie_head {
+	width: 30%;
+	border-radius: 200px;
+	position: absolute;
+	top: 1000px;
+	left: 0px;
+}
+
+}
+#hay_bale{
+	width: 30%;
+	border-radius: 200px;
+	position: absolute;
+	top: 1000px;
+	left: 500px;
+}
+#start{
+	position: absolute;
+	top: 650px;
+	left: 200px;
+}
+#ring{
+	position: absolute;
+	top: 1040px;
+	left: 34px;
+}
+#minion{
+	position: absolute;
+	top: 1030px;
+	left: 520px;
+}
+#href1{
+	position: absolute;
+	top: 1400px;
+	left: 100px;
+}
+#href2{
+	position: absolute;
+	top: 1400px;
+	left: 575px;
+}
+#href3{
+	position: absolute;
+	top: 1400px;
+	left: 1050px;
+}
+h1 {
+	font-family: 'Courier Prime', monospace;
+	font-weight: bold 600;
+	font-size: 72px;
+	color: #C94E00;
+	outline-style: ridge;
+	outline-width: 12px;
+	outline-color: #512A11;
+	position: absolute;
+	top: 400px;
+	left: 150px;
+}
+h2 {
+	font-family: 'Aldrich', sans-serif;
+	font-weight: bold 400;
+	font-size: 45px;
+	text-align: center;
+	color: #164A4A;
+}
+h3 {
+	font-family: 'Contrail One', cursive;
+	font-size: 36px;
+	color: #900C3F;
+}
+h4 {
+	font-size: 20px;
+	color: navy;
+}
+a {
+	text-decoration: none;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+#top_banner {
+	display: flex;
+}
